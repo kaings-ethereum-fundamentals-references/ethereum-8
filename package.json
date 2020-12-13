@@ -1,0 +1,26 @@
+{
+  "name": "ethereum-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaings-ethereum/ethereum-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaings-ethereum/ethereum-8/issues"
+  },
+  "homepage": "https://github.com/kaings-ethereum/ethereum-8#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
