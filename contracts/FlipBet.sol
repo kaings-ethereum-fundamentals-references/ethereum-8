@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: smartcontract201
-pragma solidity ^0.6.12;
+pragma solidity 0.6.12;
 
 contract FlipBet {
     uint public contractBalance;
